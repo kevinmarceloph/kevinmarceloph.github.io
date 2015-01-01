@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: First | Kevin Marcelo]]></title>
+  <link href="http://kevinmarceloph.github.io/categories/first/atom.xml" rel="self"/>
+  <link href="http://kevinmarceloph.github.io/"/>
+  <updated>2015-01-01T22:58:09+00:00</updated>
+  <id>http://kevinmarceloph.github.io/</id>
+  <author>
+    <name><![CDATA[Kevin Marcelo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://kevinmarceloph.github.io/hello-world/"/>
+    <updated>2015-01-01T00:00:00+00:00</updated>
+    <id>http://kevinmarceloph.github.io/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello world! I am Kevin Marcelo, a follower of multiple passions. I previously describe myself as a jack of all trades, but I don&rsquo;t have a good list of trades to be a jack of. So, in the spirit of &ldquo;follow your passion,&rdquo; I follow multiple passions.</p>
+
+<p>I have <a href="/ideas/">a lot of ideas</a> waiting to be brought to life, and I&rsquo;m on a long journey to <a href="/projects/">finally executing them</a>. I am a full stack-ish web developer (Python + Django + basic front end + basic server), and while I try to <a href="/technology/">keep myself updated</a> with new technologies, I care more about picking up <a href="/not-technology/">the other skills</a> needed to make full products.</p>
+
+<p>Outside ideas and projects, I am also a trope enthusiast. I&rsquo;ve long thought myself as <a href="/anime/"><em>otaku</em></a>, <a href="/games/">gamer</a>, <a href="/books/">reader</a> and <a href="/movies/">cinemaphile</a> combined (plus some <a href="/tv/">TV series</a> and <a href="/comics/">comic books</a>), but now I understand that what I get from them are the plots and patterns, more known now as tropes. This also explains why I spread myself across many media instead of focusing on one, and also why I play games for their narratives. TV Tropes has ruined my life, and that&rsquo;s good.</p>
+
+<p>I also care a lot about rationality, both in the sense of <a href="/beliefs/">getting my beliefs straight</a> and using my knowledge <a href="/winning/">to achieve my goals</a>. (As &ldquo;rationality&rdquo; can mean someting completely different to you, I recommend you read <a href="/hpmor/">my favorite piece of literature</a>, Harry Potter and the Methods of Rationality.) I also care about expressing my points with <a href="/clarity/">the sharpness of knives</a>, which I cannot reliably do yet, as I&rsquo;m <a href="/writing/">not a good writer</a> yet in general.</p>
+
+<p>I am also human, so I also want to <a href="/fitness/">get fit</a>, <a href="/cooking/">cook good food</a>, <a href="/travel/">see the world</a>, and many more (<a href="/goals/">25 of them in total</a>). I probably cannot do all of them, but I want to get as far as I can, ticking off a few a time.</p>
+]]></content>
+  </entry>
+  
+</feed>
