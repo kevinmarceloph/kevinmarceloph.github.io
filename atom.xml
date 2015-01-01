@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kevin Marcelo]]></title>
-  <link href="http://kevin.marcelo.ph/atom.xml" rel="self"/>
-  <link href="http://kevin.marcelo.ph/"/>
-  <updated>2015-01-01T15:54:09+00:00</updated>
-  <id>http://kevin.marcelo.ph/</id>
+  <link href="http://kevinmarceloph.github.io/atom.xml" rel="self"/>
+  <link href="http://kevinmarceloph.github.io/"/>
+  <updated>2015-01-01T17:01:07+00:00</updated>
+  <id>http://kevinmarceloph.github.io/</id>
   <author>
     <name><![CDATA[Kevin Marcelo]]></name>
     
