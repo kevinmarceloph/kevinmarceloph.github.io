@@ -5,7 +5,11 @@ date: 2015-01-01
 comments: true
 categories: first
 ---
+![Kevin Marcelo's avatar image](/images/kevinmarceloph.png "Hello there! :)")
+
 Hello world! I am Kevin Marcelo, a follower of multiple passions. I previously describe myself as a jack of all trades, but I don't have a good list of trades to be a jack of. So, in the spirit of "follow your passion," I follow multiple passions.
+
+<!-- more -->
 
 I have [a lot of ideas](/ideas/) waiting to be brought to life, and I'm on a long journey to [finally executing them](/projects/). I am a full stack-ish web developer (Python + Django + basic front end + basic server), and while I try to [keep myself updated](/technology/) with new technologies, I care more about picking up [the other skills](/not-technology/) needed to make full products.
 
