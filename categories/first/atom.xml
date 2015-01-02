@@ -4,7 +4,7 @@
   <title><![CDATA[Category: First | Kevin Marcelo]]></title>
   <link href="http://kevinmarceloph.github.io/categories/first/atom.xml" rel="self"/>
   <link href="http://kevinmarceloph.github.io/"/>
-  <updated>2015-01-01T23:38:12+00:00</updated>
+  <updated>2015-01-02T01:06:10+00:00</updated>
   <id>http://kevinmarceloph.github.io/</id>
   <author>
     <name><![CDATA[Kevin Marcelo]]></name>
@@ -18,7 +18,12 @@
     <link href="http://kevinmarceloph.github.io/hello-world/"/>
     <updated>2015-01-01T00:00:00+00:00</updated>
     <id>http://kevinmarceloph.github.io/hello-world</id>
-    <content type="html"><![CDATA[<p>Hello world! I am Kevin Marcelo, a follower of multiple passions. I previously describe myself as a jack of all trades, but I don&rsquo;t have a good list of trades to be a jack of. So, in the spirit of &ldquo;follow your passion,&rdquo; I follow multiple passions.</p>
+    <content type="html"><![CDATA[<p><img src="/images/kevinmarceloph.png" title="Hello there! :)" alt="Kevin Marcelo's avatar image" /></p>
+
+<p>Hello world! I am Kevin Marcelo, a follower of multiple passions. I previously describe myself as a jack of all trades, but I don&rsquo;t have a good list of trades to be a jack of. So, in the spirit of &ldquo;follow your passion,&rdquo; I follow multiple passions.</p>
+
+<!-- more -->
+
 
 <p>I have <a href="/ideas/">a lot of ideas</a> waiting to be brought to life, and I&rsquo;m on a long journey to <a href="/projects/">finally executing them</a>. I am a full stack-ish web developer (Python + Django + basic front end + basic server), and while I try to <a href="/technology/">keep myself updated</a> with new technologies, I care more about picking up <a href="/not-technology/">the other skills</a> needed to make full products.</p>
 
