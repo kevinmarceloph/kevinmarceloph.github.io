@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: First | Kevin Marcelo]]></title>
-  <link href="http://kevinmarceloph.github.io/categories/first/atom.xml" rel="self"/>
-  <link href="http://kevinmarceloph.github.io/"/>
-  <updated>2015-01-02T19:44:55+00:00</updated>
-  <id>http://kevinmarceloph.github.io/</id>
+  <link href="http://kevin.marcelo.ph/categories/first/atom.xml" rel="self"/>
+  <link href="http://kevin.marcelo.ph/"/>
+  <updated>2015-01-04T15:49:00+00:00</updated>
+  <id>http://kevin.marcelo.ph/</id>
   <author>
     <name><![CDATA[Kevin Marcelo]]></name>
     <email><![CDATA[kevin@marcelo.ph]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://kevinmarceloph.github.io/hello-world/"/>
+    <link href="http://kevin.marcelo.ph/hello-world/"/>
     <updated>2015-01-01T00:00:00+00:00</updated>
-    <id>http://kevinmarceloph.github.io/hello-world</id>
+    <id>http://kevin.marcelo.ph/hello-world</id>
     <content type="html"><![CDATA[<p><img src="/images/kevinmarceloph.png" title="Hello there! :)" alt="Kevin Marcelo's avatar image" /></p>
 
 <p>Hello world! I am Kevin Marcelo, a follower of multiple passions. I previously describe myself as a jack of all trades, but I don&rsquo;t have a good list of trades to be a jack of. So, in the spirit of &ldquo;follow your passion,&rdquo; I follow multiple passions.</p>
