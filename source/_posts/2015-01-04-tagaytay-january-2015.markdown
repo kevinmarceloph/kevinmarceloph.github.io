@@ -5,7 +5,7 @@ date: 2015-01-04 11:50:04 +0000
 comments: true
 categories: travel tagaytay
 ---
-So in the spirit of the holiday break and using my father-in-law's van for trips, we went to Tagaytay, the land of Bulalo and the current holder of the largest Ferris wheel in the Philippines.
+So in the spirit of the holiday break and using my father-in-law's van for trips, we went to Tagaytay, the land of Bulalo, Taal volcano and the current holder of the largest Ferris wheel in the Philippines.
 
 <!-- more -->
 
