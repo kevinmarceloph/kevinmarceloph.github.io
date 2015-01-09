@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ideas | Kevin Marcelo]]></title>
+  <link href="http://kevin.marcelo.ph/categories/ideas/atom.xml" rel="self"/>
+  <link href="http://kevin.marcelo.ph/"/>
+  <updated>2015-01-09T13:38:04+00:00</updated>
+  <id>http://kevin.marcelo.ph/</id>
+  <author>
+    <name><![CDATA[Kevin Marcelo]]></name>
+    <email><![CDATA[kevin@marcelo.ph]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Idea: Cooking Diary]]></title>
+    <link href="http://kevin.marcelo.ph/idea-cooking-diary/"/>
+    <updated>2015-01-09T12:26:52+00:00</updated>
+    <id>http://kevin.marcelo.ph/idea-cooking-diary</id>
+    <content type="html"><![CDATA[<p><em>A diary for cooking activities and experiments, to encourage cooking newbies and to converge into a database of different ways to cook recipes.</em></p>
+
+<p><a href="https://twitter.com/kevinmarceloph/status/553376286677020672"><img class="center" src="https://pbs.twimg.com/media/B638zIvCMAAVQhr.jpg:large" width="400" height="400" title="Pork Sinigang (Tamarind Soup) = shoulder cut pork + onion + radish + tamarind broth + kangkong (water spinach)" ></a></p>
+
+<!-- more -->
+
+
+<p>If you&rsquo;ve seen my <a href="/2015/">2015 post</a> (as of this writing; I&rsquo;m planning to change it soon) or <a href="https://twitter.com/kevinmarceloph">my Twitter</a>, I have a list of dishes I&rsquo;ve cooked. Some are good, some are fails, some are repeats and some are firsts. Someday I will look back at this list and laugh at my failures, and then find a dish I want to cook <em>today</em>.</p>
+
+<h2>Problem</h2>
+
+<p><strong>Core Problem: I need a place to log my cooking escapades, with pictures, description/recipe and rating.</strong></p>
+
+<h3>Additional Problems:</h3>
+
+<ol>
+<li>I want it to be taggable and searchable. &ldquo;How many times have I cooked Pasta Alfredo before? Have I ever cooked crabs?&rdquo;</li>
+<li>I want to discover new dishes and new ways to cook my dishes. &ldquo;The many ways to cook spaghetti! :)&rdquo;</li>
+<li>I wish to collect recipes I want to cook later. &ldquo;Found this image about cooking with instant ramen.&rdquo;</li>
+<li>I wish to compile the ingredients from those recipes into a grocery list. &ldquo;Hmm, what should I get from the meat market? The grocery?&rdquo;</li>
+</ol>
+
+
+<h2>Proposed Solution</h2>
+
+<p>Easiest: The easiest would be a dedicated Twitter account (which can be retweeted back to my main account). Other features can be done by hashtags, but using too much would be ugly.</p>
+
+<p>Here it is: <a href="https://twitter.com/cookalike">@cookalike</a></p>
+
+<p>Next: Creating a dedicated app for me to solve the core problem without being limited to 140 characters. So this involves login, feed and form (with image upload). And then next is adding tagging, search and discovery. Of course, these will be done alongside design and marketing work. And then the want-to-cook and the grocery list will come later.</p>
+
+<h2>Monetization</h2>
+
+<p>Uhh&hellip; ads? Premium users?</p>
+
+<h2>Future Directions</h2>
+
+<ol>
+<li>Site chat!</li>
+<li>Recommendations!</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
