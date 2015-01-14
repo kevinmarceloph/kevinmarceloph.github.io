@@ -12,7 +12,7 @@ _A diary for cooking activities and experiments, to encourage cooking newbies an
 
 <!-- more -->
 
-If you've seen my [2015 post](/2015/) (as of this writing; I'm planning to change it soon) or [my Twitter](https://twitter.com/kevinmarceloph), I have a list of dishes I've cooked. Some are good, some are fails, some are repeats and some are firsts. Someday I will look back at this list and laugh at my failures, and then find a dish I want to cook _today_.
+If you've seen my [2015 post](/2015/) (as of this writing; I'm planning to change it soon) or [my Twitter](https://twitter.com/kevinmarceloph), you'll see that I'm building a list of dishes I've cooked. Some are good, some are fail, some are repeats and some are firsts. Someday I will look back at this list and laugh at my failures, and then find a dish I want to cook _today_.
 
 ## Problem
 **Core Problem: I need a place to log my cooking escapades, with pictures, description/recipe and rating.**
